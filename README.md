@@ -38,10 +38,6 @@ This repository contains a full PyTorch implementation of the **VGG19** architec
 - torchvision  
 - tqdm  
 
-Install dependencies:
-
-```bash
-pip install torch torchvision tqdm
 
 @article{simonyan2014very,
   title={Very Deep Convolutional Networks for Large-Scale Image Recognition},
